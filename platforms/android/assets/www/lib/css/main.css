@@ -1,0 +1,14 @@
+/* Lamaison Deli Styles */
+.offlineError {
+    font-family: 'Noteworthy', cursive;
+    color: #712E00;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 20px;
+    border-top-right-radius: 2em;
+    border-bottom-right-radius: 2em;
+    border-top-left-radius: 2em;
+    border-bottom-left-radius: 2em;
+    position: relative; 
+    top: 75px;
+}
